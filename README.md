@@ -14,9 +14,9 @@
 - [X] 5. Commit com mensagem "criado e configurado app inicial"
 - [X] 6. Criar uma página inicial com link para a lista de produtos `/produtos` consumindo dados de https://dummyjson.com/docs/products
 - [X] 7. Commit com a mensagem "criado a página com lista de produtos"
-- [ ] 8. Criar uma 2a página para atualizar produtos `/produtos/[id]` enviando atualização para a [api](https://dummyjson.com/docs/products#products-update)
-- [ ] 9. Commit com a mensagem "criado a página de edição de produto"
-- [ ] 10. Publicar projeto no repositório do github
+- [X] 8. Criar uma 2a página para atualizar produtos `/produtos/[id]` enviando atualização para a [api](https://dummyjson.com/docs/products#products-update)
+- [X] 9. Commit com a mensagem "criado a página de edição de produto"
+- [X] 10. Publicar projeto no repositório do github
 
 **Lembretes**
 1. Telas devem usar componentes [shadcnui](https://ui.shadcn.com/)
